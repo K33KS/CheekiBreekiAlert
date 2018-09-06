@@ -93,7 +93,6 @@ namespace KillIndicator
             else
             {
                 MessageBox.Show("Please select a valid path to Nvidia Highlights temp directory.");
-                ToggleRun();
             }
         }
 
